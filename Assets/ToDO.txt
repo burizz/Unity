@@ -1,0 +1,15 @@
+# Change Background
+
+# Change ship image
+
+# Add Bombs
+Create placeholder for bombs in player
+Find bomb pic.
+Create bomb explosion.
+Make bomb fly forward before exploding
+Add bomb count to Player.
+Trigger explosion on pressing "space"
+Add logic to blow up all enemies within explosion range.
+Add bomb to the random object spawn
+
+Maybe add different type of bombs
